@@ -8,8 +8,8 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="styn.svg"
-   inkscape:export-filename="styn.png"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="logo.png"
    inkscape:export-xdpi="48"
    inkscape:export-ydpi="48"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -36,11 +36,17 @@
      id="defs2">
     <pattern
        inkscape:collect="always"
+       xlink:href="#Wavy"
+       id="pattern1998"
+       patternTransform="matrix(1.1169552,0,0,1.1595357,161.90733,2.4516327)" />
+    <pattern
+       inkscape:collect="always"
        patternUnits="userSpaceOnUse"
        width="30.066020"
        height="5.1805778"
        id="Wavy"
-       inkscape:stockid="Wavy">
+       inkscape:stockid="Wavy"
+       inkscape:isstock="true">
       <path
          style="fill:black;stroke:none;"
          d="M 7.597,0.061 C 5.079,-0.187 2.656,0.302 -0.01,1.788 L -0.01,3.061 C 2.773,1.431 5.173,1.052 7.472,1.280 C 9.770,1.508 11.969,2.361 14.253,3.218 C 18.820,4.931 23.804,6.676 30.066,3.061 L 30.062,1.788 C 23.622,5.497 19.246,3.770 14.691,2.061 C 12.413,1.207 10.115,0.311 7.597,0.061 z "
@@ -84,38 +90,27 @@
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.331275"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.331275"
        id="path12843"
        cx="67.73333"
        cy="67.73333"
        r="67.73333" />
-    <g
-       aria-label="STYN"
-       id="text6796"
-       style="font-weight:900;font-size:23.8044px;font-family:Prompt;-inkscape-font-specification:'Prompt Heavy';text-align:center;text-anchor:middle;opacity:1;fill:#1a1a1a;stroke-width:0.811515">
-      <path
-         d="m 43.500456,76.410037 q -1.642504,0 -3.308812,-0.333262 -1.666308,-0.333261 -2.713701,-0.904567 v -4.903706 q 1.333046,0.761741 2.808919,1.142611 1.499677,0.38087 2.76131,0.38087 0.714132,0 1.023589,-0.142826 0.309457,-0.142826 0.309457,-0.452284 0,-0.428479 -0.476088,-0.714132 -0.476088,-0.309457 -2.023374,-0.999784 -2.285222,-0.999785 -3.332615,-2.21381 -1.02359,-1.237828 -1.02359,-2.999354 0,-1.523481 0.833154,-2.689897 0.856959,-1.19022 2.38044,-1.856743 1.547286,-0.666523 3.523051,-0.666523 1.6187,0 2.880333,0.261848 1.261633,0.261848 2.404244,0.80935 v 4.737075 q -2.142396,-1.19022 -4.237183,-1.19022 -1.690112,0 -1.690112,0.737937 0,0.357066 0.38087,0.59511 0.404675,0.238044 1.428264,0.642718 l 0.880763,0.357066 q 1.690112,0.714132 2.594679,1.428264 0.904568,0.690328 1.285438,1.594895 0.38087,0.880763 0.38087,2.237614 0,2.404244 -1.761525,3.784899 -1.761526,1.356851 -5.308381,1.356851 z"
-         id="path12714"
-         style="fill:#1a1a1a" />
-      <path
-         d="m 54.593313,64.150771 h -4.260988 v -4.737075 h 14.163618 v 4.737075 h -4.260988 v 11.9022 h -5.641642 z"
-         id="path12716"
-         style="fill:#1a1a1a" />
-      <path
-         d="m 70.637457,69.697196 -6.022513,-10.2835 h 6.022513 l 2.832723,5.260772 3.070768,-5.260772 h 5.998708 l -6.260557,10.2835 v 6.355775 h -5.641642 z"
-         id="path12718"
-         style="fill:#1a1a1a" />
-      <path
-         d="m 82.658697,59.413696 h 4.975119 l 4.951315,7.736429 v -7.736429 h 5.403599 v 16.639275 h -4.97512 l -4.951315,-7.760234 v 7.760234 h -5.403598 z"
-         id="path12720"
-         style="fill:#1a1a1a" />
-    </g>
-    <g
-       id="text1015"
-       style="font-weight:bold;font-size:7.7611px;font-family:Prompt;-inkscape-font-specification:'Prompt Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583" />
-    <path
-       id="path5206"
-       style="opacity:1;fill:url(#Wavy);stroke-width:0.333618"
-       d="M 135.46666,67.73333 A 67.73333,67.73333 0 0 1 67.73333,135.46666 67.73333,67.73333 0 0 1 0,67.73333 67.73333,67.73333 0 0 1 67.73333,0 67.73333,67.73333 0 0 1 135.46666,67.73333 Z" />
+    <circle
+       style="fill:url(#pattern1998);fill-opacity:1;stroke-width:0.301108"
+       id="path339"
+       cx="67.73333"
+       cy="67.73333"
+       r="67.73333" />
+    <text
+       xml:space="preserve"
+       style="font-weight:900;font-size:30.969px;font-family:Prompt;-inkscape-font-specification:'Prompt Heavy';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.322593"
+       x="68.04303"
+       y="78.556999"
+       id="text2054"><tspan
+         sodipodi:role="line"
+         id="tspan2052"
+         style="font-size:30.969px;fill:#000000;stroke-width:0.322593"
+         x="68.04303"
+         y="78.556999">STYN</tspan></text>
   </g>
 </svg>
